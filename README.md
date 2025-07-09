@@ -20,9 +20,6 @@ This repository contains the coursework project for the subject **Web Computing 
 - `style.css` - Stylesheet for the login page
 - `bg.jpg` - Background image
 
-## Screenshots
-_Add a screenshot of your login page here if required._
-
 ## Author
 Sharvari Anand
 
